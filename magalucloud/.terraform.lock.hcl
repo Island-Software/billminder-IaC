@@ -4,6 +4,7 @@
 provider "registry.terraform.io/magalucloud/mgc" {
   version = "0.46.0"
   hashes = [
+    "h1:6duwDiburOuZAokYEn4FPUa2qxi0jz+KilXkknM6sOg=",
     "h1:oknap+9WQFMc3tNZA6UvDVFXGLiWju/OEkA6lxFKLBM=",
     "zh:14656f6a95b6e9aacba489d75cb890b5cee2ebcf5defadee888ef9aa14a4ae63",
     "zh:2ae9ec9dbebe74f90b75b0c030239be3b6391550dbd05cb726e58904594d7655",
